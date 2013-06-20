@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Danko Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-01 12:58+0100\n"
+"PO-Revision-Date: 2012-11-01 12:58+0100\n"
+"Last-Translator: ThemesKingdom <info@themeskingdom.com>\n"
+"Language-Team: ThemesKingdom <info@themeskingdom.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: /Users/justdot/Desktop/htdocs/wordpress/wp-content/"
+"themes/\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: danko\n"
+
+#: danko/404.php:10
+msgid ""
+"Looks like the page you we’re looking <br /> for doesn’t exist. Sorry about "
+"that."
+msgstr ""
+
+#: danko/404.php:12
+msgid "Check the web address for typos or visit the home page."
+msgstr ""
+
+#: danko/404.php:18
+msgid "Home Page"
+msgstr ""
+
+#: danko/_contact.php:123 danko/comments.php:30
+msgid "Name and Surname:"
+msgstr ""
+
+#: danko/_contact.php:147
+msgid "Send Now"
+msgstr ""
+
+#: danko/_donate.php:45
+msgid "Donate Now"
+msgstr ""
+
+#: danko/_donate.php:54
+msgid ""
+"After pressing Donate now button you will be redirected to the PayPal "
+"payment page"
+msgstr ""
+
+#: danko/comments.php:15
+msgid "You must be"
+msgstr ""
+
+#: danko/comments.php:15
+msgid "logged in"
+msgstr ""
+
+#: danko/comments.php:15
+msgid "to post a comment."
+msgstr ""
+
+#: danko/comments.php:22
+msgid "Logged in as"
+msgstr ""
+
+#: danko/comments.php:22
+msgid "Log out &raquo;"
+msgstr ""
+
+#: danko/comments.php:34
+msgid "E-mail Address:"
+msgstr ""
+
+#: danko/comments.php:45
+msgid "Message:"
+msgstr ""
+
+#: danko/comments.php:55
+msgid "Send"
+msgstr ""
+
+#: danko/footer.php:11
+msgid "Latest Actions"
+msgstr ""
+
+#: danko/footer.php:81 danko/footer.php:96
+msgid "comments"
+msgstr ""
+
+#: danko/footer.php:85 danko/footer.php:100
+msgid "Read more"
+msgstr ""
+
+#: danko/footer.php:115
+msgid "Where the money goes"
+msgstr ""
+
+#: danko/front-page.php:277 danko/header.php:227
+msgid "You’ve Helped Raise…"
+msgstr ""
+
+#: danko/front-page.php:344 danko/header.php:291
+msgid "Donate"
+msgstr ""
+
+#: danko/functions.php:52
+msgid "Left Navigation"
+msgstr ""
+
+#: danko/functions.php:53
+msgid "Right Navigation"
+msgstr ""
+
+#: danko/search.php:105
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: danko/admin/functions.php:52
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: danko/admin/functions.php:53
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: danko/admin/functions.php:55
+msgid " · Edit"
+msgstr ""
+
+#: danko/admin/functions.php:70
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: danko/admin/functions.php:82
+msgid "No Comments"
+msgstr ""
+
+#: danko/admin/functions.php:83
+msgid "1 Comment"
+msgstr ""
+
+#: danko/admin/functions.php:84
+msgid "% Comments"
+msgstr ""
+
+#: danko/admin/functions.php:85
+msgid "Comments Off"
+msgstr ""
+
+#: danko/admin/functions.php:96
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: danko/admin/functions.php:554
+msgid "Page"
+msgstr ""
+
+#: danko/admin/theme.php:9
+msgid " Transactions"
+msgstr ""
+
+#: danko/admin/widgets/widget-comments.php:10
+msgid " - Recent Comments"
+msgstr ""
+
+#: danko/admin/widgets/widget-comments.php:84
+#: danko/admin/widgets/widget-recent-actions.php:103
+#: danko/admin/widgets/widget-recent.php:115
+#: danko/admin/widgets/widget-social.php:134
+msgid "Title:"
+msgstr ""
+
+#: danko/admin/widgets/widget-comments.php:89
+msgid "Number of comments:"
+msgstr ""
+
+#: danko/admin/widgets/widget-recent-actions.php:10
+msgid " - Recent Actions"
+msgstr ""
+
+#: danko/admin/widgets/widget-recent-actions.php:108
+#: danko/admin/widgets/widget-recent.php:120
+msgid "Number of posts:"
+msgstr ""
+
+#: danko/admin/widgets/widget-recent.php:10
+msgid " - Recent Posts"
+msgstr ""
+
+#: danko/admin/widgets/widget-social.php:10
+msgid " - Subscribe & Follow"
+msgstr ""
+
+#: danko/admin/widgets/widget-social.php:140
+msgid "Facebook link:"
+msgstr ""
+
+#: danko/admin/widgets/widget-social.php:146
+msgid "Rss:"
+msgstr ""
+
+#: danko/admin/widgets/widget-social.php:152
+msgid "Google Plus:"
+msgstr ""
+
+#: danko/admin/widgets/widget-social.php:158
+msgid "Twitter Link:"
+msgstr ""
